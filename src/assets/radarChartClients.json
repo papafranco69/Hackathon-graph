@@ -1,0 +1,193 @@
+[
+        {
+          "SecurityType": "Government",
+          "SPRating": "2",
+          "RIRating": "2",
+          "MoodyRating": "2",
+          "JCRRating": "5",
+          "Maturity": "Long",
+          "Industry": "0"
+        },
+        {
+          "SecurityType": "Corporate",
+          "SPRating": "7,1",
+          "RIRating": "4.7",
+          "MoodyRating": "5.5",
+          "JCRRating": "5",
+          "Maturity": "Shortlong",
+          "Industry": "Technology"
+        },
+        {
+          "SecurityType": "Corporate",
+          "SPRating": "4.9",
+          "RIRating": "6",
+          "MoodyRating": "8",
+          "JCRRating": "7",
+          "Maturity": "Long",
+          "Industry": "Technology"
+        },
+        {
+          "SecurityType": "Corporate",
+          "SPRating": "6",
+          "RIRating": "8",
+          "MoodyRating": "9",
+          "JCRRating": "6",
+          "Maturity": "Long",
+          "Industry": "Financial"
+        },
+        {
+          "SecurityType": "Corporate",
+          "SPRating": "2",
+          "RIRating": "1",
+          "MoodyRating": "2",
+          "JCRRating": "5",
+          "Maturity": "Shortlong",
+          "Industry": "Technology"
+        },
+        {
+          "SecurityType": "Government",
+          "SPRating": "3",
+          "RIRating": "10",
+          "MoodyRating": "1",
+          "JCRRating": "-1",
+          "Maturity": "Long",
+          "Industry": "0"
+        },
+        {
+          "SecurityType": "Corporate",
+          "SPRating": "1",
+          "RIRating": "7",
+          "MoodyRating": "1",
+          "JCRRating": "5",
+          "Maturity": "Mid",
+          "Industry": "Commercial"
+        },
+        {
+          "SecurityType": "Corporate",
+          "SPRating": "8",
+          "RIRating": "9",
+          "MoodyRating": "7",
+          "JCRRating": "9",
+          "Maturity": "Short",
+          "Industry": "Financial"
+        },
+        {
+          "SecurityType": "Corporate",
+          "SPRating": "4",
+          "RIRating": "5",
+          "MoodyRating": "7",
+          "JCRRating": "9",
+          "Maturity": "Shortlong",
+          "Industry": "Manufacturing"
+        },
+        {
+          "SecurityType": "Government",
+          "SPRating": "5",
+          "RIRating": "1",
+          "MoodyRating": "6",
+          "JCRRating": "6",
+          "Maturity": "Short",
+          "Industry": "0"
+        },
+        {
+          "SecurityType": "Corporate",
+          "SPRating": "4",
+          "RIRating": "9",
+          "MoodyRating": "10",
+          "JCRRating": "8",
+          "Maturity": "Long",
+          "Industry": "Technology"
+        },
+        {
+          "SecurityType": "Corporate",
+          "SPRating": "9",
+          "RIRating": "9",
+          "MoodyRating": "8",
+          "JCRRating": "0",
+          "Maturity": "Mid",
+          "Industry": "Financial"
+        },
+        {
+          "SecurityType": "Government",
+          "SPRating": "6",
+          "RIRating": "2",
+          "MoodyRating": "10",
+          "JCRRating": "4",
+          "Maturity": "Long",
+          "Industry": "0"
+        },
+        {
+          "SecurityType": "Government",
+          "SPRating": "9",
+          "RIRating": "6",
+          "MoodyRating": "5",
+          "JCRRating": "4",
+          "Maturity": "Shortlong",
+          "Industry": "0"
+        },
+        {
+          "SecurityType": "Corporate",
+          "SPRating": "0",
+          "RIRating": "0",
+          "MoodyRating": "4",
+          "JCRRating": "7",
+          "Maturity": "Short",
+          "Industry": "Technology"
+        },
+        {
+          "SecurityType": "Corporate",
+          "SPRating": "9",
+          "RIRating": "9",
+          "MoodyRating": "-1",
+          "JCRRating": "6",
+          "Maturity": "Long",
+          "Industry": "Financial"
+        },
+        {
+          "SecurityType": "Corporate",
+          "SPRating": "10",
+          "RIRating": "-1",
+          "MoodyRating": "0",
+          "JCRRating": "0",
+          "Maturity": "Shortlong",
+          "Industry": "Manufacturing"
+        },
+        {
+          "SecurityType": "Government",
+          "SPRating": "5",
+          "RIRating": "8",
+          "MoodyRating": "6",
+          "JCRRating": "-1",
+          "Maturity": "Mid",
+          "Industry": "0"
+        },
+        {
+          "SecurityType": "Government",
+          "SPRating": "5",
+          "RIRating": "4",
+          "MoodyRating": "2",
+          "JCRRating": "-1",
+          "Maturity": "Long",
+          "Industry": "0"
+        },
+        {
+          "SecurityType": "Corporate",
+          "SPRating": "10",
+          "RIRating": "10",
+          "MoodyRating": "0",
+          "JCRRating": "5",
+          "Maturity": "Short",
+          "Industry": "Commercial"
+        },
+        {
+          "SecurityType": "Government",
+          "SPRating": "1",
+          "RIRating": "-1",
+          "MoodyRating": "4",
+          "JCRRating": "0",
+          "Maturity": "Mid",
+          "Industry": "0"
+        }
+]
+    
+  

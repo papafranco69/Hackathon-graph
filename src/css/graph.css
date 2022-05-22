@@ -1,0 +1,8 @@
+.radar {
+    color: 'black';
+  }
+  
+  svg text {
+    fill: 'black' !important;
+    color: 'black';
+  }
